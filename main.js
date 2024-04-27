@@ -14,7 +14,6 @@ const getAdvice = async () => {
 
 const displayAdvice = async () => {
 	const slip = await getAdvice();
-	console.log(slip);
 	if (slip) {
 		adviceId.innerHTML = slip.id;
 		quoteDisplay.innerHTML = `"${slip.advice}"`;
