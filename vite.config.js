@@ -2,5 +2,5 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
 	base: './',
-	assetsInclude: ['**/*.ttf'],
+	assetsInclude: ['assets/fonts/*.ttf'],
 });
