@@ -31,8 +31,7 @@ Users should be able to:
 
 ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
-
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/advice-generator-vanilla-js-sass-Vfy3B_8vFh)
 - Live Site URL: [Advice Generator](https://vicschbt.github.io/PERSO-advice-generator-app/)
 
 ## My process
